@@ -1,0 +1,34 @@
+Sector,,Name,Weight,Ticker,Sector
+Communication Services,4,Alphabet Inc. Class A,1.825088,GOOGL,Communication Services
+Communication Services,6,Alphabet Inc. Class C,1.603189,GOOG,Communication Services
+Communication Services,8,Meta Platforms Inc. Class A,1.369542,META,Communication Services
+Consumer Discretionary,2,Amazon.com Inc.,2.73804,AMZN,Consumer Discretionary
+Consumer Discretionary,10,Tesla Inc.,1.264166,TSLA,Consumer Discretionary
+Consumer Discretionary,16,Home Depot Inc.,0.888964,HD,Consumer Discretionary
+Consumer Staples,14,Procter & Gamble Company,1.066594,PG,Consumer Staples
+Consumer Staples,22,PepsiCo Inc.,0.738765,PEP,Consumer Staples
+Consumer Staples,23,Coca-Cola Company,0.719724,KO,Consumer Staples
+Energy,7,Exxon Mobil Corporation,1.407509,XOM,Energy
+Energy,17,Chevron Corporation,0.882112,CVX,Energy
+Energy,55,ConocoPhillips,0.366811,COP,Energy
+Financials,5,Berkshire Hathaway Inc. Class B,1.698712,BRK.B,Financials
+Financials,12,JPMorgan Chase & Co.,1.193646,JPM,Financials
+Financials,13,Visa Inc. Class A,1.093691,V,Financials
+Health Care,9,UnitedHealth Group Incorporated,1.321027,UNH,Health Care
+Health Care,11,Johnson & Johnson,1.237452,JNJ,Health Care
+Health Care,18,Eli Lilly and Company,0.874231,LLY,Health Care
+Industrials,45,Raytheon Technologies Corporation,0.434035,RTX,Industrials
+Industrials,49,United Parcel Service Inc. Class B,0.413321,UPS,Industrials
+Industrials,51,Honeywell International Inc.,0.380183,HON,Industrials
+Information Technology,0,Apple Inc.,7.110275,AAPL,Information Technology
+Information Technology,1,Microsoft Corporation,6.065087,MSFT,Information Technology
+Information Technology,3,NVIDIA Corporation,1.923625,NVDA,Information Technology
+Materials,34,Linde plc,0.524116,LIN,Materials
+Materials,116,Air Products and Chemicals Inc.,0.187811,APD,Materials
+Materials,129,Freeport-McMoRan Inc.,0.163383,FCX,Materials
+Real Estate,67,Prologis Inc.,0.328306,PLD,Real Estate
+Real Estate,83,American Tower Corporation,0.274142,AMT,Real Estate
+Real Estate,112,Equinix Inc.,0.190489,EQIX,Real Estate
+Utilities,41,NextEra Energy Inc.,0.454178,NEE,Utilities
+Utilities,97,Southern Company,0.232894,SO,Utilities
+Utilities,100,Duke Energy Corporation,0.219884,DUK,Utilities
