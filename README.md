@@ -19,7 +19,8 @@ Lower-volatility stocks, which are generally considered safer investments, may o
 
 ## Limitations
 The analysis is based on current S&P 500 tickers, and we could not find reliable historical data on the index membership for each year.  
-The study only covers a 10-year period and may not account for longer-term trends or fluctuations in market conditions.  
+The study only covers a 10-year period and may not account for longer-term trends or fluctuations in market conditions.
+The weighted-mean method to calculate the weighted annual return is not a professional way to calculate the actual industry annual return. It can only be used to compare different sectors.
 
 ## Getting Started
 To get started with the project, please follow these steps:  
