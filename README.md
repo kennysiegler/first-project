@@ -12,15 +12,16 @@ Application of statistical tests (ANOVA and linear regression) to validate findi
 
 ## Key Findings
 Information Technology, Healthcare, and Energy sectors yield the highest average year-over-year returns.  
+Information Technology, Health Care and Consumer Discretionary have the highest 10 year returns.  
 A correlation coefficient of 0.88 between the Average Annual Return and Average In-Year Volatility, indicating that higher returns are often associated with higher volatility.  
-Investors seeking higher returns in IT, Healthcare, and Energy stocks should be prepared for increased volatility and potential losses within their portfolios.
+Investors seeking higher returns in IT, Healthcare, Consumer Discretionary and Energy stocks should be prepared for increased volatility and potential losses within their portfolios.
 Lower-volatility stocks, which are generally considered safer investments, may offer less profit for investors.  
 
 ## Limitations
 The analysis is based on current S&P 500 tickers, and we could not find reliable historical data on the index membership for each year.  
 The study only covers a 10-year period and may not account for longer-term trends or fluctuations in market conditions.  
 
-##Getting Started
+## Getting Started
 To get started with the project, please follow these steps:  
 Clone the repository to your local machine.  
 Install the required Python libraries, including the YahooFinance library.  
