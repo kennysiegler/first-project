@@ -25,5 +25,7 @@ Getting Started
 
 Clone the repository to your local machine.
 Install the required Python libraries, including the YahooFinance library.
+![image](https://user-images.githubusercontent.com/123340434/236364675-97f36dfb-69f6-467a-8a45-82f88405396f.png)
+
 Run the provided Jupyter Notebook in code\ folder to perform the analysis and explore the results.
 
